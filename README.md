@@ -33,7 +33,7 @@
 
 ![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/atten.PNG)
 
-- ### MAIL SENT CONFIRMATION 
+- ### MAIL SENT CONFIRMATION !
 
 ![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/mail.PNG)
 
