@@ -1,16 +1,4 @@
-# Bankura Unnayani Institute Of Engineering
-
-##     ::22nd Foundation Day::  :Vikram Saravai Innovation Contest:
-
-### Our Project Name :
-    _Face Recognition Based Smart Attendence System_
-
-### Creators :
-    1. Ayan Mondal.
-    2. Suman Mandal.
-    3. Amit kabi.
-    4. Amit Ghoswami.
-    5, Tapas Pal.
+# Face-Recognition-Based-Smart-Attendance-System
 
 ### Tools and Technology Used :
     Python3.
@@ -20,4 +8,4 @@
     Open CV.
     Linux Enviroment.
 
-## :)
+
