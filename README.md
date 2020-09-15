@@ -1,23 +1,42 @@
-# Bankura Unnayani Institute Of Engineering
+# Face-Recognition-Based-Smart-Attendance-System
 
-##     ::22nd Foundation Day::  :Vikram Saravai Innovation Contest:
+- ### SYSTEM INTERFACE 
 
-### Our Project Name :
-    _Face Recognition Based Smart Attendence System_
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/inetr.PNG)
 
-### Creators :
-    1. Ayan Mondal.
-    2. Suman Mandal.
-    3. Amit kabi.
-    4. Amit Ghoswami.
-    5, Tapas Pal.
+- ### DETAILS FILLED
 
-### Tools and Technology Used :
-    Python3.
-    Numpy.
-    Pandas.
-    tkinter.
-    Open CV.
-    Linux Enviroment.
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/det_fill.PNG)
 
-## :)
+- ### TAKE IMAGES CONFIRMATION
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/i_take.PNG)
+
+- ### TRAIN MODEL CONFIRMATION
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/i_train.PNG)
+
+
+- ### TRACK IMAGES
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/i_track.PNG)
+
+- ### TRACK IMAGES
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/i_trac_C.PNG)
+
+- ### STUDENT DETAILS
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/s_det.PNG)
+
+- ### ATTENDENCE INFO FILE ( .csv file )
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/atten.PNG)
+
+- ### MAIL SENT CONFIRMATION 
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/mail.PNG)
+
+- ### QUIT CONFIRMATION 
+
+![alt text](https://github.com/MohitKumarMandhre/Face-Recognition-Based-Smart-Attendance-System/blob/master/image_set/quit_c.PNG)
